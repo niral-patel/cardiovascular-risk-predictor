@@ -1,0 +1,15 @@
+env/
+# Artifacts — ignore large binaries, keep images and metadata
+artifacts/_data/
+artifacts/_model/*.pkl
+artifacts/_model/*.h5
+logs/
+__pycache__/
+*.pyc
+*.pkl
+.env
+.vscode/
+.DS_Store
+notebook/data/
+healthrisk.egg-info/
+*.egg-info/
