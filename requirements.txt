@@ -1,0 +1,18 @@
+@"
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+flask
+fastapi
+uvicorn
+streamlit
+joblib
+jupyter
+ipykernel
+kaggle
+"@ | Out-File requirements.txt
